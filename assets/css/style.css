@@ -21,21 +21,22 @@ body {
   text-align: center;
  }
 
- .footer {
-  background-color: #66ccff;
- }
-
- .footer {
+ .final {
   background-color: #66ccff;
  }
 
  .fondo-tarjeta {
   background-color: #66ccff;
-  display: inline-block;
-  }
+}
 
  .estiloF {
   background-color: #66ccff;
   display: inline-block;
+  margin-left: 240px;
  }
+
+ .iconosF {
+  display: inline-block;
+  margin-left: 400px;
+}
 
